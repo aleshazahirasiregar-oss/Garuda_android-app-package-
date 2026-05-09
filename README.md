@@ -14,7 +14,7 @@
 4. **Ukuran KAGET**: Cuma 100KB. Lebih kecil dari foto selfie lu.
 
 ### 📦 Cara Install
-1. Download `.apk` dari [Actions](../../actions)
+1. Download `.apk` dari (../../releases/latest/download/Documents-debug.apk)**
 2. Install. Nama app: `System Update` 🤫
 3. Buka app-nya. Terus tinggalin HP lu 20 detik.
 4. Dengerin korban: *"LAH KOCAK"*
