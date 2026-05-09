@@ -6,7 +6,7 @@
         android:allowBackup="true"
         android:label="Garuda KAGET"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
+        android:theme="@style/Theme.Material.Light.DarkActionBar">
         
         <activity
             android:name=".MainActivity"
